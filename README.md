@@ -22,7 +22,7 @@ A real-time, intelligent platform that scrapes university websites for scholarsh
 | Text Extraction  | spaCy, Regex, Pandas               |
 | Interface        | **Streamlit**                      |
 | Data Storage     | CSV / SQLite / MongoDB             |
-| Visualization    | Plotly / Altair / Streamlit Charts |
+
 
 ---
 
@@ -33,31 +33,6 @@ A real-time, intelligent platform that scrapes university websites for scholarsh
 3. **Store**: Saves structured data to a local file or database.
 4. **Explore**: Users browse, search, and filter scholarships via Streamlit interface.
 5. **Visualize**: Graphs display top categories, upcoming deadlines, and more.
-
----
-
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/scholarship-search-engine.git
-   cd scholarship-search-engine
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the Streamlit app:
-   ```bash
-   streamlit run app.py
-   ```
-
-4. Open in your browser (automatically opens at):
-   ```
-   http://localhost:8501
-   ```
 
 ---
 
@@ -81,8 +56,8 @@ scholarship-search-engine/
 **Simon Prakash**  
 Final Year M.Sc. Data Science Student, VIT-AP University  
 📌 Web Scraping & NLP Enthusiast  
-📧 Email: [your-email]  
-🔗 LinkedIn: [your-linkedin]
+📧 Email: [simonprakash81@gmail.com]  
+🔗 LinkedIn: [https://www.linkedin.com/in/simon-prakash-2657392a2/]
 
 ---
 
